@@ -1,0 +1,9 @@
+/public/shared
+/public/local-config.php
+/public/sql-dump-*.sql
+/public/db-sync
+/public/content/upgrade/
+/log
+/backup
+/private
+.DS_Store
