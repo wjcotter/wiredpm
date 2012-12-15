@@ -2,5 +2,6 @@
 /local-config.php
 /sql-dump-*.sql
 /db-sync
+/content/uploads
 /content/upgrade/
 .DS_Store
