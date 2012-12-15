@@ -3,6 +3,7 @@
 /public/sql-dump-*.sql
 /public/db-sync
 /public/content/upgrade/
+/public/content/uploads
 /log
 /backup
 /private
